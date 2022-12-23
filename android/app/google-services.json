@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "528733596647",
+    "firebase_url": "https://doipen-default-rtdb.firebaseio.com",
+    "project_id": "doipen",
+    "storage_bucket": "doipen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528733596647:android:fc56bf5138e11903f46b42",
+        "android_client_info": {
+          "package_name": "com.example.doipen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528733596647-m5up62ueofvrca1kqn6gsfkpf7cojoph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUTX_T3EcevDiWl3rl7PtNmlMax5wfS5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528733596647-m5up62ueofvrca1kqn6gsfkpf7cojoph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
